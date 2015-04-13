@@ -1,0 +1,63 @@
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.exe
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.pdb
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.xml
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.exe
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.xml
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.pdb
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Customers.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Products.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Cards.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Offers.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Employees.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.MDIParent1.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.LoginF.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Empl_Reporting.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Orders.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Cashier_Entry.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Empl_Checkout.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.DW_Load.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Gift.resources
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.exe.manifest
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.application
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.exe.manifest
+C:\BHAS\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.application
+C:\BHAS\Terna\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.exe
+C:\BHAS\Terna\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.xml
+C:\BHAS\Terna\A_Sem7\proj\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.pdb
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.exe
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.xml
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.pdb
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.exe.manifest
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.application
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.exe
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.pdb
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\bin\Debug\GroceryMart.xml
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Cards.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Employees.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Customers.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Accounts.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Empl_Reporting.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Cashier_Entry.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Empl_Checkout.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.DW_Load.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Gift.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Orders.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.LoginF.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Inventory.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.MDIParent1.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Offers.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Products.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.vbproj.GenerateResource.Cache
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.exe.manifest
+D:\BEProject2012\eBEST Grocery_files\proj_work\GroceryMart\GroceryMart\obj\x86\Debug\GroceryMart.application
